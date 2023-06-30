@@ -1,0 +1,36 @@
+{
+    "name": "S Kaushik Chopra",
+    "email": "kaushikchopra2908@gmail.com",
+    "phone": "(91)80151-18081",
+    "address": "9/4, Rangasayee Street, Perambur, Chennai - 600011.",
+    "summary": "A passionate and skilled professional with experience in web development and programming.",
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Civil Engineering",
+            "College": "Rajalakshmi Engineering College",
+            "year": "2018"
+        },
+        {
+            "degree": "Higher Secondary Certification",
+            "school": "Railway Mixed Higher Secondary School",
+            "year": "2014"
+        }
+    ],
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "React",
+        "MongoDB"
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Tamil"
+    ],
+    "certifications": [
+        "Responsive Web Design - freeCodeCamp Certification",
+        "JavaScript Algorithms and Data Structures - freeCodeCamp Certification"
+    ]
+}
